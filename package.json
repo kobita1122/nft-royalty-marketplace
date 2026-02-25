@@ -1,0 +1,10 @@
+{
+  "name": "nft-royalty-marketplace",
+  "version": "1.0.0",
+  "description": "ERC-721 Marketplace with EIP-2981 Royalty support",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "author": "Alex000115",
+  "license": "MIT"
+}
